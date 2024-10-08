@@ -1,0 +1,24 @@
+import React from "react";
+
+function MenuIcon() {
+  return (
+    <div>
+      <svg
+        width="12"
+        height="9"
+        viewBox="0 0 12 9"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0.766846 8.31384H10.7668M0.766846 4.81384H10.7668M0.766846 1.31384H10.7668"
+          stroke="#9EACBF"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+      </svg>
+    </div>
+  );
+}
+
+export default MenuIcon;
